@@ -33,6 +33,7 @@ The dataset used in this project contains employee information, including their 
 - `YearsAtCompany`
 - `MonthlyIncome`
 - `JobSatisfaction`
+
 - `Attrition` (Yes/No)
 
 ## Methodology
@@ -44,4 +45,5 @@ The dataset used in this project contains employee information, including their 
 5. **Evaluation**: Evaluate the performance of the models using appropriate metrics and choose the best-performing model.
 6. **Insights and Recommendations**: Derive insights from the analysis and suggest recommendations to reduce employee attrition.
 
-
+## Screenshots
+![Screenshot (1588)](https://github.com/user-attachments/assets/8091e09b-51c4-462f-8d6f-5e6606c6cb12)
