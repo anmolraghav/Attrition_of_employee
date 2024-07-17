@@ -14,7 +14,6 @@ The main objective of this project is to determine the attrition rate of employe
 - Department
 - Job role
 - Education level
-- Marital status
 - Monthly income
 - Job satisfaction
 
